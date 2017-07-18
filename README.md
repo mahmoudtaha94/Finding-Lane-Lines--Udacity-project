@@ -1,5 +1,6 @@
 # P1-lane-lines--Udacity-project
-this is the first project in Udacity's nano degree "Self-driving car Engineer" SDCND
+The first project: 
+" Finding Lane Lines- Self-driving Car Nano degree- Udacity"
 
 My pipeline consisted of 5 steps: 
 1) converted the images to grayscale
